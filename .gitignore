@@ -1,6 +1,10 @@
 # Bootstrap
 app/bootstrap*
 
+#Tests directories
+src/Test/*
+app/packs/test.php
+
 # Silex directories
 vendor/*
 */logs/*

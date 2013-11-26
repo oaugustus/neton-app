@@ -1,5 +1,11 @@
 {
     "require": {
-        "neton/neton": ">=0.1"
+        "php": ">=5.3.3",
+        "neton/neton": ">=0.1",
+        "symfony/console": "~2.3",
+        "symfony/filesystem": "2.5.*@dev"
+    },
+    "autoload": {
+        "psr-0": { "": "src/" , "Test": "src/"}
     }
 }

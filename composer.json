@@ -1,0 +1,5 @@
+{
+    "require": {
+        "neton/neton": ">=0.1"
+    }
+}

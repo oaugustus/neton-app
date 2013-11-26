@@ -1,7 +1,7 @@
 # Bootstrap
 app/bootstrap*
 
-# Symfony directories
+# Silex directories
 vendor/*
 */logs/*
 */cache/*
@@ -9,5 +9,13 @@ web/uploads/*
 web/bundles/*
 
 # Configuration files
-app/config/parameters.ini
-app/config/parameters.yml
+app/config/local.json
+
+# Ide files
+*.idea
+
+# SO files
+.DS_Store
+
+# Composer files
+composer.lock

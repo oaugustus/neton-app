@@ -1,4 +1,8 @@
 {
+    "name": "oaugustus/neton-app",
+    "description": "Esqueleto de aplicação para construção de Apps na Net On",
+    "license": "MIT",
+    "type": "project",
     "require": {
         "php": ">=5.3.3",
         "neton/neton": "dev-master",
@@ -6,6 +10,6 @@
         "symfony/filesystem": "2.5.*@dev"
     },
     "autoload": {
-        "psr-0": { "": "src/" , "Test": "src/"}
+        "psr-0": { "": "src/"}
     }
 }

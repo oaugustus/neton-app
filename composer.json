@@ -1,7 +1,7 @@
 {
     "require": {
         "php": ">=5.3.3",
-        "neton/neton": ">=0.1",
+        "neton/neton": "dev-master",
         "symfony/console": "~2.3",
         "symfony/filesystem": "2.5.*@dev"
     },

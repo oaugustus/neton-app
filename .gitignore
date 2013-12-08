@@ -7,7 +7,7 @@ app/packs/test.php
 
 # Silex directories
 vendor/*
-*/logs/*
+*/logs/*.log
 */cache/*
 web/uploads/*
 web/bundles/*
